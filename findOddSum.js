@@ -29,4 +29,3 @@ console.log(oddNumbers);
 
 const oddNumberSum = getSumOfAnArray(oddNumbers);
 console.log('The sum of odd number is ', oddNumberSum);
-
