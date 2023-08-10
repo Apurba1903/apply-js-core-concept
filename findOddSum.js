@@ -21,6 +21,9 @@ function getOddNumberOfAnArray (numbers){
     }
     return oddnumber;
 }
+
+
+
 const myNumbers = [20, 12, 11, 55, 60, 20, 61, 69];
 getSumOfAnArray(myNumbers);
 
